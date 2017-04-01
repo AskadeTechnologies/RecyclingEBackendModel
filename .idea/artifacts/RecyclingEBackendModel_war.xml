@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RecyclingEBackendModel:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="recyclingEBackendModel.war">
+      <element id="artifact" artifact-name="RecyclingEBackendModel:war exploded" />
+    </root>
+  </artifact>
+</component>
